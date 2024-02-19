@@ -1,1 +1,1 @@
-# isabela lessa 18device-width
+# isabela lessa 18
